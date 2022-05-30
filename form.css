@@ -1,5 +1,9 @@
-* {box-sizing: border-box}
-
+* {
+    box-sizing: border-box;
+  }
+  body{
+  background-image: url('./pexels-simon-berger-1323550.jpg');
+  }
 /* Full-width input fields */
   input[type=text], input[type=password] {
   width: 100%;
